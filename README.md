@@ -1,5 +1,5 @@
 # Social_Network_Analysis
-Social network anaylsis of terrorist network from tweets
+Social network analysis of terrorist network from tweets
 
 ## Random graph of terrorist network
 
